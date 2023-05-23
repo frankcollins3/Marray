@@ -19,3 +19,5 @@ probably be a simple 1 page UI in next.js|typescript|prisma|postgres|graphql|red
 if this app doesn't happen its just the entering thinking of ideas or ideas entering thinking
 
 // As I commit the funny thing is the whole Marray[i, i, i] the index being everyone saying [i || I || Me ] for Marray/Marry
+
+// also want to interact with C programming or GCC in anyway with javascript. 
